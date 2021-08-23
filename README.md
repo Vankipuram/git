@@ -1,2 +1,2 @@
 # git
-Hi welcome to the git-hub
+Hi welcome to the git-hub training
